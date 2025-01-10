@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TsuiokuPi
 - 👀 I’m interested in VOCALOID, programming, music, liminal space and so more
 - 🌱 I’m currently learning php/MySql, I learned python and html
-- 💞️ I’m looking to collaborate on project...
 - 📫 How to reach me : Twitter TsuiokuPii
 - 😄 Pronouns: He/She
 - ⚡ Fun fact: I create songs
